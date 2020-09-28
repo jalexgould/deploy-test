@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jalexgould/deploy-test.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/jalexgould/deploy-test.git/static/js/main.94895520.chunk.js",
+    "main.js.map": "/jalexgould/deploy-test.git/static/js/main.94895520.chunk.js.map",
+    "runtime-main.js": "/jalexgould/deploy-test.git/static/js/runtime-main.701d8d68.js",
+    "runtime-main.js.map": "/jalexgould/deploy-test.git/static/js/runtime-main.701d8d68.js.map",
+    "static/js/2.6bb47cf4.chunk.js": "/jalexgould/deploy-test.git/static/js/2.6bb47cf4.chunk.js",
+    "static/js/2.6bb47cf4.chunk.js.map": "/jalexgould/deploy-test.git/static/js/2.6bb47cf4.chunk.js.map",
+    "index.html": "/jalexgould/deploy-test.git/index.html",
+    "precache-manifest.f8dd461ed7f1c0d80781f5f6c981bba4.js": "/jalexgould/deploy-test.git/precache-manifest.f8dd461ed7f1c0d80781f5f6c981bba4.js",
+    "service-worker.js": "/jalexgould/deploy-test.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/jalexgould/deploy-test.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6bb47cf4.chunk.js.LICENSE.txt": "/jalexgould/deploy-test.git/static/js/2.6bb47cf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.701d8d68.js",
+    "static/js/2.6bb47cf4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.94895520.chunk.js"
+  ]
+}
